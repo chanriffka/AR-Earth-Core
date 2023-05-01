@@ -1,0 +1,4 @@
+#Mon May 01 14:07:55 ICT 2023
+base.0=C\:\\Users\\ASUS\\AR Earth Core\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
